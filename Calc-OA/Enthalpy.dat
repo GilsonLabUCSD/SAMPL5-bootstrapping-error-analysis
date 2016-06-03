@@ -1,0 +1,6 @@
+../Exp/OAEnth10.txt
+                    Submission   Slope  Interc       R     R^2    RMSE     MSE     MUE     TAU  
+           Enth-APR_OPC-10.txt    0.53   -1.73    0.73    0.53    2.86    2.11    2.41    0.56  
+         Enth-APR_TIP3P-10.txt    0.72   -3.56    0.72    0.51    2.50   -1.31    2.17    0.47  
+                 Enth-Null.txt    0.00    0.00    0.00    0.00    8.63    8.16    8.16     nan  
+                Enth-Null2.txt    0.28   -4.71    0.40    0.16    2.97    1.18    2.30    0.12  
